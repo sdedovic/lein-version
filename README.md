@@ -5,3 +5,13 @@ A Leiningen plugin to replace instances of `:version` with the version specified
 ## Usage
 
 Put `[lein-version "1.0.0"]` into the `:plugins` vector. The middleware is implicitly applied though `lein-version.plugin/middleware` should be added the `:middleware` vector. There is no documentation - read the source code.
+
+## Development
+### Release
+```bash
+# given
+direnv allow
+
+lein release
+```
+
