@@ -1,6 +1,7 @@
 # lein-version
+[![Clojars Project](https://img.shields.io/clojars/v/com.dedovic/lein-version.svg)](https://clojars.org/com.dedovic/lein-version)
 
-A Leiningen plugin to replace instances of `:version` with the version specified in the Lein project. I use this to keep all deps consistent in my monorepo with lein-monolith.
+A Leiningen plugin to replace instances of `:version` with the version specified in the Lein project. I use this to keep all deps consistent in my monorepo with [lein-monolith](https://github.com/amperity/lein-monolith).
 
 ## Usage
 
