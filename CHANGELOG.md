@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 
 ## [Unreleased]
+
+## [1.0.0] — 2025-09-13
 ### Added
 - inital setup
 
@@ -14,4 +16,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 Released without _CHANGELOG.md_.
 
 
-[Unreleased]: https://github.com/sdedovic/lein-version/compare/0.1.0...HEAD
+[1.0.0]: https://github.com/sdedovic/lein-version/compare/0.1.0...1.0.0
+[Unreleased]: https://github.com/sdedovic/lein-version/compare/1.0.0...HEAD

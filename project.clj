@@ -1,4 +1,4 @@
-(defproject com.dedovic/lein-version "1.0.0-SNAPSHOT"
+(defproject com.dedovic/lein-version "1.0.0"
   :plugins [[lein-changelog "0.3.2"]]
 
   :description "A lein plugin to inject the project version into dependency targets"
